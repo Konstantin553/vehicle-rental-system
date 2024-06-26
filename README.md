@@ -4,7 +4,6 @@ Project requirements
 
 Functionality:
 
-- Develop the rental logic using Java
 - Available vehicle types are motorcycle, car and cargo van
 - Rental information required:
     - Vehicle brand
